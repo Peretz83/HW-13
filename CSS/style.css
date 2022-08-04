@@ -1,0 +1,74 @@
+body{
+  background-image: url(/imgs/facebook-cover-abstract-wallpaper-preview.jpeg);
+  
+  background-repeat: no-repeat;
+background-size: cover;}
+
+
+ul{
+  display: flex;
+  list-style-type: none;
+  justify-content: center;
+  align-content: center;
+  
+  text-align: center;
+  height: 40px;
+
+ 
+}
+
+
+li {
+  margin-left: 20px;
+  visibility: visible;
+  
+}
+#my-form{
+  display: flex;
+  
+  align-items: center;
+  justify-content: center;
+  margin: 10px auto;
+  
+  
+}
+a{
+  color: red;
+  font-weight: 600;
+}
+
+#input1{
+  background-color: lightgoldenrodyellow;
+  color: black;
+  border-radius: 5px;
+  text-align: center;
+  font-family: Helvetica;
+}
+#input2 {
+  background-color: lightgoldenrodyellow;
+  color: black;
+  border-radius: 5px;
+  text-align: center;
+  font-family: Helvetica;
+}
+#input3 {
+  background-color: lightgoldenrodyellow;
+  color: black;
+  border-radius: 5px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+  text-align: center;
+  color: red;
+}
+label{
+  color: yellow;
+}
+
+#colorDiv{
+  width: 1400px;
+  height: 200px;
+ 
+
+}
